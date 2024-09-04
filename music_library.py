@@ -1,0 +1,23 @@
+music = {
+    "jogi":"https://music.youtube.com/watch?v=D78UzqpxIQU&feature=shared",
+    "judge":"https://music.youtube.com/watch?v=XutSv9jO6Tk&feature=shared",
+    "spain":"https://music.youtube.com/watch?v=oVf9zIEqstI&feature=shared",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    "":"",
+    
+}
